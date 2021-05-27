@@ -1,51 +1,45 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Courtney B. Hilton"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD
+    institution: The University of Sydney
+    year: 2020
+  - course: BMus
+    institution: Australian National University
+    year: 2015
+email: "courtneyhilton@g.harvard.edu"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Music
+- Language
+- Cognitive Science
+- Data Science
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Harvard University
+  url: https://psychology.fas.harvard.edu/people/courtney-hilton
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:courtneyhilton@g.harvard.edu
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/courtneybhilton
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=egRtkI0AAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/Stiltstiltstilts
 superuser: true
-title: Nelson Bighetti
+bio: My research interests include various things.
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Courtney is a Postdoctoral Fellow in the Harvard Music Lab. He grew up in the small country town of Gidgegannup in Western Australia, and initially trained as a musician. Today he applies ideas from cognitive and data science to ask big questions about the nature of music and the mind. In his spare time he makes music, plays chess, and worships the 20th century philosopher and scientist William James.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
