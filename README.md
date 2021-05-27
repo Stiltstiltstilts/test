@@ -1,2 +1,2 @@
 # test
-Testing using git from RStudio
+Testing using git from RStudio!
