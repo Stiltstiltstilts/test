@@ -13,8 +13,7 @@ highlight_name: false
 interests:
 - Music
 - Language
-- Cognitive Science
-- Data Science
+- Cognitive/Data Science
 - Philosophy (especially pragmatism)
 organizations:
 - name: Harvard University
