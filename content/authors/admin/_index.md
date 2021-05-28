@@ -39,8 +39,8 @@ superuser: true
 bio: My research interests include various things.
 ---
 
-Courtney is a postdoctoral fellow in the [Harvard Music Lab](https://www.themusiclab.org/). He grew up in the small country town of [Gidgegannup](https://goo.gl/maps/Jg5GUTxj3RePSgJV8) in Western Australia, and initially trained as a musician. Today he applies ideas from cognitive and data science to ask big questions about the nature of music and the mind and to explore new ways of doing research using online citizen science. In his spare time he makes music, plays chess, and is currently obsessing about the ideas of William James. 
+Courtney is a postdoctoral fellow in the [Harvard Music Lab](https://www.themusiclab.org/). He grew up in the small country town of [Gidgegannup](https://goo.gl/maps/Jg5GUTxj3RePSgJV8) in Western Australia, and initially trained as a [musician](https://www.youtube.com/channel/UCHGjIWIXCNN54zdhzuufIcw). 
 
-Lauren Rose is a cutie. 
+Today he applies ideas from cognitive and data science to ask big questions about the nature of music and the mind. He also explores new ways of doing research using online citizen science. In his spare time he makes music, plays chess, and is currently obsessing about the ideas of William James. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
