@@ -1,18 +1,10 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
+title: "Gallery"
+headless: yes
 weight: 66
-
-title: Gallery
-subtitle:
-
-active: false
+widget: blank
+subtitle: null
+active: no
 ---
 
 {{< gallery >}}
