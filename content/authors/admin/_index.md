@@ -43,6 +43,6 @@ Courtney is a postdoctoral fellow in the [Harvard Music Lab](https://www.themusi
 
 Today he applies ideas from cognitive and data science to ask questions about the nature of music and the mind. Sometimes his questions stray to other areas like language and human learning. And recently he has been exploring new ways of doing this research using [online citizen science](https://psyarxiv.com/uj9a6). 
 
-In his spare time he makes [music](https://twitter.com/courtneybhilton/status/1397005394871005192), plays [chess](https://lichess.org/@/Stiltstiltstilts), and is a bit in love with [William James](https://en.wikipedia.org/wiki/William_James). 
+In his spare time he makes [music](https://twitter.com/courtneybhilton/status/1397005394871005192), plays [chess](https://lichess.org/@/Stiltstiltstilts), and finds himself a bit in love with [William James](https://en.wikipedia.org/wiki/William_James). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.--->
