@@ -100,3 +100,28 @@ ul.ul-edu li .description p.institution {
   font-size: 0.75rem;
   color: rgba(0, 0, 0, 0.6);
 }
+
+// Extra code to make Uni icons, see: https://github.com/wowchemy/wowchemy-hugo-modules/issues/1094
+
+ul.ul-edu li:first-child::before {
+  content: '';
+  position: absolute;
+  height: 1.5em;
+  width: 1.5em;
+  background-image: url('/media/usyd_seal.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: -2.5em;
+  margin-top: 0.25em ;
+  }
+  ul.ul-edu li:nth-child(2)::before {
+  content: '';
+  position: absolute;
+  height: 1.5em;
+  width: 1.5em;
+  background-image: url('/media/ANU_seal.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: -2.5em;
+  margin-top: 0.25em ;
+  }
