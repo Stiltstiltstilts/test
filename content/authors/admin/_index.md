@@ -10,11 +10,10 @@ education:
     year: 2015
 email: "courtneyhilton@g.harvard.edu"
 highlight_name: false
-# interests:
-# - Music
-# - Language
-# - Cognitive/Data Science
-# - Philosophy (especially pragmatism)
+interests:
+- Writing code
+- Writing papers
+- Learning new things and sharing the journey with amazing colleagues
 organizations:
 - name: Harvard University
   url: https://psychology.fas.harvard.edu/people/courtney-hilton

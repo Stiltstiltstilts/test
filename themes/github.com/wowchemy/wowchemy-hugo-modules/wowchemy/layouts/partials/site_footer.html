@@ -22,7 +22,7 @@
   </p>
   {{ end }}
 
-  {{ with site.Copyright }}
+  <!---{{ with site.Copyright }}
   <p class="powered-by">
     {{ replace . "{year}" now.Year | markdownify }}
   </p>
@@ -47,4 +47,5 @@
       {{ $i18n_published_with | markdownify | emojify }}
     {{ end }}
   </p>
+  --->
 </footer>
