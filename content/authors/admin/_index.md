@@ -26,15 +26,6 @@ superuser: true
 bio: My research interests include various things.
 ---
 
-# education:
-#   courses:
-#   - course: PhD
-#     institution: The University of Sydney
-#     year: 2021
-#   - course: BMus
-#     institution: Australian National University
-#     year: 2015
-
 Hi! My name is Courtney. I am a cognitive scientist who studies how minds, music, and culture interact. In other words, I'm interested in how YOU perceive, experience, and engage with music and how that is shaped by both your cultural background and your general psychological characteristics.
 
 I am particularly excited about answering these questions via web-based citizen science methods, allowing me to collect large and culturally diverse experimental datasets, which facilitate sophisticated computational methods. Sometimes I also do developmental experiments with babies, or work with anthropologists to conduct fieldwork.
