@@ -8,40 +8,34 @@ education:
   - course: BMus
     institution: Australian National University
     year: 2015
-email: "courtneyhilton@g.harvard.edu"
+email: "courtney.hilton@auckland.ac.nz"
 highlight_name: false
-interests:
-- Writing code
-- Writing papers
-- Learning new things and sharing the journey with amazing colleagues
 organizations:
-- name: Harvard University
-  url: https://psychology.fas.harvard.edu/people/courtney-hilton
-role: Postdoctoral Fellow
+- name: University of Auckland
+  url: https://profiles.auckland.ac.nz/courtney-hilton
+role: Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:courtneyhilton@g.harvard.edu
+  link: mailto:courtney.hilton@auckland.ac.nz
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/courtneybhilton
+  link: https://bsky.app/profile/courtneybhilton.bsky.social
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?hl=en&user=egRtkI0AAAAJ&view_op=list_works&sortby=pubdate
+  link: https://scholar.google.com/citations?hl=en&user=egRtkI0AAAAJ&view_op=list_works
 - icon: github
   icon_pack: fab
-  link: https://github.com/Stiltstiltstilts
+  link: https://github.com/courtney-bryce-hilton
 superuser: true
 bio: My research interests include various things.
 ---
 
-Courtney is a postdoctoral fellow in the [Harvard Music Lab](https://www.themusiclab.org/). He grew up in the small country town of [Gidgegannup](https://goo.gl/maps/Jg5GUTxj3RePSgJV8) in Western Australia, and initially trained as a [musician](https://www.youtube.com/channel/UCHGjIWIXCNN54zdhzuufIcw). 
+Hi! My name is Courtney. I am a cognitive scientist who studies how minds, music, and culture interact. In other words, I'm interested in how YOU perceive, experience, and engage with music and how that is shaped by both your cultural background and your general psychological characteristics. I am particularly excited about answering these questions via web-based citizen science methods, allowing me to collect large and culturally diverse experimental datasets, which facilitate sophisticated computational methods. Sometimes I also do developmental experiments with babies, or work with anthropologists to conduct fieldwork.
 
-Today he applies ideas from cognitive and data science to ask questions about the nature of music and the mind. Sometimes his questions stray into other areas like language, technology, and human learning. And recently he has been exploring new ways of answering these questions using [online citizen science](https://psyarxiv.com/uj9a6). 
-
-In his spare time he makes [music](https://twitter.com/courtneybhilton/status/1397005394871005192), plays [chess](https://lichess.org/@/Stiltstiltstilts), and finds himself a bit in love with [William James](https://en.wikipedia.org/wiki/William_James). 
+I am currently a (postdoctoral) research fellow in the School of Psychology at the University of Auckland, where I work in [The Music Lab](https://www.themusiclab.org/). I originally joined the lab when it was based in the Department of Psychology at Harvard University, where I worked for 2 years. Prior to that I completed my PhD at the University of Sydney. And before that, I originally trained as a musician and classical guitarist, working with the great teacher Tim Kain at the Australian National University. I grew up in the small country town of [Gidgegannup](https://goo.gl/maps/Jg5GUTxj3RePSgJV8) in Western Australia. In my spare time, I make music, visual art, cook, play chess, and hang out with my partner and our two cats Dave and Gidge.
 
 <!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.--->
