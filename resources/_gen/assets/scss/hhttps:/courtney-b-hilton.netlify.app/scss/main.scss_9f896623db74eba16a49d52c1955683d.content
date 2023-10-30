@@ -9107,6 +9107,30 @@ ul.ul-edu li .description p.institution {
   font-size: 0.75rem;
   color: rgba(0, 0, 0, 0.6); }
 
+ul.ul-edu li:first-child::before {
+  content: '';
+  position: absolute;
+  height: 2em;
+  width: 2em;
+  background-image: url("/media/usyd_seal.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: -2.5em;
+  margin-top: 0.25em;
+  background-color: transparent; }
+
+ul.ul-edu li:nth-child(2)::before {
+  content: '';
+  position: absolute;
+  height: 2em;
+  width: 2em;
+  background-image: url("/media/ANU_seal.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: -2.5em;
+  margin-top: 0.25em;
+  background-color: transparent; }
+
 /*************************************************
  *  Contact
  **************************************************/

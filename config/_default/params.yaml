@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: courtneyhilton@g.harvard.edu
-# phone: 888 888 88 88
-address:
-  street: 33 Kirkland St, William James Hall
-  city: Cambridge
-  region: MA
-  postcode: '02138'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '42.3773'
-  longitude: '-71.1134'
+email: courtney.hilton@auckland.ac.nz
+# # phone: 888 888 88 88
+# address:
+#   street: 33 Kirkland St, William James Hall
+#   city: Cambridge
+#   region: MA
+#   postcode: '02138'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '42.3773'
+#   longitude: '-71.1134'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/courtneybhilton'
+    link: 'https://bsky.app/profile/courtneybhilton.bsky.social'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
@@ -60,7 +60,7 @@ contact_links:
 main_menu:
   enable: false
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true

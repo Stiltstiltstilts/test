@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: hhttps://courtney-b-hilton.netlify.app/sitemap.xml
