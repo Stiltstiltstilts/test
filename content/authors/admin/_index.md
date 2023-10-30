@@ -28,7 +28,7 @@ bio: My research interests include various things.
 
 G'day! My name is Courtney. Nice to meet you 🤝
 
-I am a cognitive scientist who studies how minds, music, and culture interact. I like big datasets and fancy computational methods. I am particularly excited about developing new ways to collect large globally diverse datasets using *web-based citizen science* and rethinking what a psychology experiment looks like.
+I am a cognitive scientist who studies how minds, music, and culture interact. I like big datasets and fancy computational methods. I am particularly excited about developing new ways to collect large globally diverse datasets using *web-based citizen science* and rethinking what psychology experiments looks like.
 
 I did [my PhD](https://ses.library.usyd.edu.au/bitstream/handle/2123/24230/Thesis_revision_clean.pdf?sequence=2) at the University of Sydney. I then worked for two years as a postdoc at Harvard in [The Music Lab](https://www.themusiclab.org/). In 2023, the lab and I both moved to the University of Auckland in New Zealand, which is where I currently work.
 
