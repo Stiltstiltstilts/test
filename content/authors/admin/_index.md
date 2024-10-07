@@ -12,7 +12,7 @@ social:
   link: mailto:courtney.hilton@auckland.ac.nz
 - display:
     header: true
-- icon: bluesky
+  icon: bluesky
   icon_pack: fab
   label: Follow me on Bluesky
   link: https://bsky.app/profile/courtneybhilton.bsky.social
