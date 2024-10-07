@@ -12,7 +12,7 @@ social:
   link: mailto:courtney.hilton@auckland.ac.nz
 - display:
     header: true
-  icon: twitter
+  icon: bluesky
   icon_pack: fab
   label: Follow me on Bluesky
   link: https://bsky.app/profile/courtneybhilton.bsky.social
@@ -30,7 +30,7 @@ Hi—thanks for being interested in my work ☺
 
 I am a scientist studying how minds, music, and culture interact. This has led me to do research on topics ranging from [how the language you speak shapes how you perceive music](https://cosmosmagazine.com/people/native-language-rhythm-melody/), to [how the sound of 'baby talk' varies around the world](https://www.nytimes.com/2022/07/24/science/parentese-babies-global-language.html).
 
-I am also interested in rethinking what psychology experiments look like. I do this by applying ideas from citizen science and gamification to study larger and more diverse groups of people over the internet. Participate in my latest citizen science study [here](https://www.themusiclab.org/quizzes/scram).
+I am also interested in rethinking what psychology experiments look like. I do this by applying ideas from citizen science and gamification to study larger and more diverse groups of people over the internet. Participate in my latest citizen science study [here](https://www.themusiclab.org/quizzes/toneguesser).
 
 You can find the full list of my published research on my [Google Scholar profile](https://scholar.google.com/citations?user=egRtkI0AAAAJ&hl=en).
 
